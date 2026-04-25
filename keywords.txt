@@ -1,0 +1,6 @@
+python
+sql
+data analysis
+machine learning
+communication
+problem solving
