@@ -1,4 +1,7 @@
 # 🧠 AI Resume Analyzer
+## 📸 Screenshots
+
+![Output](output.png))
 
 ## 📌 Description
 A Python-based tool that analyzes resumes and identifies missing skills using keyword matching.
